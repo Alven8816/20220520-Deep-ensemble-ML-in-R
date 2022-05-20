@@ -1,0 +1,4 @@
+"0","test_p2 <-"
+"0","  assess.plot(pre = pred_stack_10_new$pre_meta$pred, obs = testset[, y])"
+"0",""
+"0","print(test_p2$plot)"

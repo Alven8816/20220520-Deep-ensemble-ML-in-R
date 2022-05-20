@@ -1,0 +1,5 @@
+"0","set.seed(1234)"
+"0","size <-"
+"0","  caret::createDataPartition(y = envir_example$PM2.5, p = 0.8, list = FALSE)"
+"0","trainset <- envir_example[size, ]"
+"0","testset <- envir_example[-size, ]"

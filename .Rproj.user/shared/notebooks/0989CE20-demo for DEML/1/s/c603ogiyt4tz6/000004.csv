@@ -1,0 +1,5 @@
+"0","# test dataset performance"
+"0","test_p1 <-"
+"0","  assess.plot(pre = pred_m3_new$pre_base$pred, obs = testset[, y])"
+"0",""
+"0","print(test_p1$plot)"

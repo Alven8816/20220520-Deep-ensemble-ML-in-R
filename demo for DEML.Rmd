@@ -1,7 +1,7 @@
 ---
 title: "deeper:Deep Ensemble for Environmental Predictor"
 author: "Alven Yu"
-date: "2022/03/03"
+date: "2022/05/20"
 output: 
   github_document:
     toc: true
@@ -70,7 +70,7 @@ library(deeper)
 ## obtain the example data
 data("envir_example")
 
-knitr::kable(envir_example[1:6,])
+#knitr::kable(envir_example[1:6,])
 ```
 
 ```{r}

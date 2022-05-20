@@ -1,0 +1,37 @@
+"0","library(deeper)"
+"2","Loading required package: SuperLearner
+"
+"2","Loading required package: nnls
+"
+"2","Loading required package: gam
+"
+"2","Loading required package: splines
+"
+"2","Loading required package: foreach
+"
+"2","Warning:"
+"2"," package ‘foreach’ was built under R version 4.1.2
+"
+"2","Loaded gam 1.20
+
+"
+"2","Super Learner
+"
+"2","Version: 2.0-28
+"
+"2","Package created on 2021-05-04
+
+"
+"2","
+Attaching package: ‘deeper’
+
+"
+"2","The following object is masked from ‘package:stats’:
+
+    predict
+
+"
+"0","## obtain the example data"
+"0","data(""envir_example"")"
+"0",""
+"0","knitr::kable(envir_example[1:6,])"
